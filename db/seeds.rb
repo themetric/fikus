@@ -10,10 +10,10 @@
 
 # Let's set up some sane defaults so we don't have to ask
 
-email = "admin@domain.com"
-password = "fikus"
+email = "marklinstop@gmail.com"
+password = "alaska1"
 
-site_name = 'Fikus'
+site_name = 'Paul Deardorff'
 site_domain = '.*'
 site_tagline = 'The Simple Ruby CMS'
 
